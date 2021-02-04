@@ -7,8 +7,12 @@
 <div style="display:flex">
 	<div style="width:230px;height:120px;background:green; padding:20px; margin:5px">
  	 Um teste em um retangulo
+     <br>
+      <img src="moto2.jpg" style="width: 100px">
 	</div>
 	<div style="width:230px;height:120px;background:red;color:white; padding:20px; margin:5px">
 	  Um teste em um retangulo
+      <br>
+      <img src="moto1.jpg" style="width: 100px">
 	</div>
 </div>	

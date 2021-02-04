@@ -4,12 +4,11 @@
 
 <h5>Tentar sempre, desistir jamais!!!<h5>
 
-  Teste Gustavo
-
-
-
-
-
-<div style="width:120px;height:23px;background:black">
-  Um teste em um retangulo
-</div>
+<div style="display:flex">
+	<div style="width:230px;height:120px;background:green; padding:20px; margin:5px">
+ 	 Um teste em um retangulo
+	</div>
+	<div style="width:230px;height:120px;background:red;color:white; padding:20px; margin:5px">
+	  Um teste em um retangulo
+	</div>
+</div>	
